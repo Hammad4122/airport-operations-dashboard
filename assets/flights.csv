@@ -1,0 +1,1001 @@
+flight_id,airline,origin,destination,departure,arrival,status
+F0001,Turkish Airlines,ISB,KHI,05:00,15:00,On Time
+F0002,PIA,AUH,JED,06:00,09:00,Cancelled
+F0003,Turkish Airlines,IST,LHE,08:30,11:30,On Time
+F0004,AirBlue,DOH,DXB,15:15,16:15,Delayed
+F0005,Qatar Airways,IST,DOH,06:15,07:15,On Time
+F0006,Turkish Airlines,AUH,KHI,16:30,22:30,On Time
+F0007,AirBlue,ISB,IST,02:15,07:15,On Time
+F0008,Etihad Airways,LHE,IST,09:30,12:30,Delayed
+F0009,PIA,JED,KHI,06:15,15:15,On Time
+F0010,SereneAir,KHI,IST,22:15,01:15,On Time
+F0011,Emirates,DOH,ISB,12:45,14:45,On Time
+F0012,Turkish Airlines,KHI,DXB,06:30,07:30,On Time
+F0013,SereneAir,KHI,DXB,07:30,11:30,Delayed
+F0014,AirBlue,KHI,ISB,23:15,00:15,On Time
+F0015,AirBlue,IST,AUH,09:15,12:15,On Time
+F0016,Turkish Airlines,KHI,DOH,03:30,11:30,On Time
+F0017,Emirates,JED,DOH,10:45,16:45,On Time
+F0018,PIA,JED,KHI,04:15,14:15,Delayed
+F0019,Turkish Airlines,IST,KHI,04:00,06:00,On Time
+F0020,Etihad Airways,DOH,DXB,23:30,03:30,Delayed
+F0021,Emirates,IST,DXB,16:00,21:00,Cancelled
+F0022,AirBlue,IST,DOH,10:30,15:30,Cancelled
+F0023,SereneAir,KHI,IST,01:45,08:45,On Time
+F0024,Emirates,DOH,KHI,22:45,01:45,Delayed
+F0025,PIA,DXB,DOH,21:00,01:00,On Time
+F0026,AirBlue,DOH,KHI,09:15,13:15,On Time
+F0027,AirBlue,DXB,LHE,09:00,17:00,On Time
+F0028,SereneAir,JED,AUH,21:15,06:15,On Time
+F0029,SereneAir,DXB,IST,17:45,01:45,On Time
+F0030,Etihad Airways,IST,KHI,09:30,16:30,On Time
+F0031,Qatar Airways,DOH,JED,05:00,14:00,On Time
+F0032,Qatar Airways,AUH,LHE,06:15,11:15,Cancelled
+F0033,PIA,KHI,DOH,08:30,12:30,On Time
+F0034,Etihad Airways,IST,AUH,04:15,09:15,On Time
+F0035,Turkish Airlines,IST,ISB,22:00,02:00,On Time
+F0036,Qatar Airways,IST,ISB,13:00,22:00,On Time
+F0037,PIA,IST,KHI,02:00,08:00,On Time
+F0038,Turkish Airlines,ISB,KHI,16:45,01:45,On Time
+F0039,PIA,AUH,JED,13:15,22:15,Cancelled
+F0040,Turkish Airlines,DOH,JED,15:00,20:00,Delayed
+F0041,PIA,AUH,DXB,11:30,19:30,On Time
+F0042,PIA,JED,IST,20:30,05:30,On Time
+F0043,Qatar Airways,ISB,IST,17:30,01:30,On Time
+F0044,AirBlue,ISB,AUH,06:45,07:45,On Time
+F0045,AirBlue,JED,LHE,10:45,20:45,Cancelled
+F0046,Qatar Airways,AUH,ISB,18:00,02:00,On Time
+F0047,Emirates,KHI,IST,00:45,06:45,Delayed
+F0048,Etihad Airways,JED,DOH,07:45,11:45,On Time
+F0049,SereneAir,ISB,JED,02:15,05:15,On Time
+F0050,Qatar Airways,DXB,ISB,15:15,00:15,Delayed
+F0051,AirBlue,DOH,JED,01:45,06:45,Delayed
+F0052,SereneAir,DOH,JED,23:00,08:00,On Time
+F0053,SereneAir,AUH,DXB,09:45,16:45,On Time
+F0054,SereneAir,ISB,DXB,02:30,11:30,On Time
+F0055,Emirates,DOH,AUH,07:00,09:00,On Time
+F0056,AirBlue,LHE,DOH,21:00,22:00,On Time
+F0057,Qatar Airways,JED,KHI,19:15,00:15,On Time
+F0058,Qatar Airways,LHE,AUH,03:15,06:15,Delayed
+F0059,Emirates,ISB,DOH,09:15,14:15,On Time
+F0060,Emirates,AUH,KHI,15:30,23:30,On Time
+F0061,PIA,JED,DXB,17:15,22:15,On Time
+F0062,Qatar Airways,LHE,AUH,03:45,09:45,On Time
+F0063,Turkish Airlines,LHE,AUH,02:45,07:45,Delayed
+F0064,Emirates,JED,ISB,15:00,23:00,On Time
+F0065,SereneAir,AUH,JED,03:00,11:00,On Time
+F0066,SereneAir,JED,KHI,18:00,21:00,On Time
+F0067,PIA,KHI,IST,02:00,06:00,On Time
+F0068,PIA,IST,JED,22:15,23:15,Delayed
+F0069,Turkish Airlines,ISB,JED,19:45,21:45,On Time
+F0070,Turkish Airlines,AUH,DOH,13:00,17:00,Cancelled
+F0071,AirBlue,KHI,ISB,13:45,15:45,On Time
+F0072,Turkish Airlines,IST,AUH,13:45,18:45,Cancelled
+F0073,AirBlue,AUH,DXB,16:00,00:00,On Time
+F0074,SereneAir,AUH,ISB,22:15,01:15,On Time
+F0075,SereneAir,LHE,IST,16:30,01:30,On Time
+F0076,Etihad Airways,ISB,IST,07:15,12:15,Delayed
+F0077,Etihad Airways,KHI,AUH,23:30,06:30,On Time
+F0078,Qatar Airways,DXB,ISB,02:45,07:45,Delayed
+F0079,Turkish Airlines,LHE,IST,16:45,22:45,On Time
+F0080,Qatar Airways,JED,ISB,17:30,02:30,On Time
+F0081,AirBlue,LHE,IST,20:15,05:15,Cancelled
+F0082,PIA,AUH,KHI,01:15,10:15,On Time
+F0083,AirBlue,KHI,JED,02:00,08:00,On Time
+F0084,AirBlue,AUH,IST,15:15,21:15,On Time
+F0085,Etihad Airways,DXB,JED,13:15,17:15,On Time
+F0086,PIA,IST,KHI,21:30,00:30,On Time
+F0087,PIA,JED,KHI,14:45,23:45,Delayed
+F0088,Qatar Airways,AUH,JED,17:45,01:45,On Time
+F0089,SereneAir,DXB,KHI,21:00,00:00,On Time
+F0090,Qatar Airways,DOH,LHE,15:30,20:30,Delayed
+F0091,Turkish Airlines,AUH,DXB,15:00,00:00,On Time
+F0092,SereneAir,DXB,ISB,05:00,14:00,On Time
+F0093,AirBlue,KHI,AUH,18:00,19:00,Cancelled
+F0094,SereneAir,ISB,AUH,18:15,20:15,Delayed
+F0095,PIA,DOH,KHI,19:00,21:00,On Time
+F0096,Turkish Airlines,LHE,DOH,01:00,03:00,Delayed
+F0097,Emirates,ISB,DOH,10:00,19:00,Delayed
+F0098,PIA,JED,ISB,18:15,01:15,Delayed
+F0099,Qatar Airways,AUH,KHI,10:15,14:15,On Time
+F0100,SereneAir,ISB,JED,19:30,20:30,On Time
+F0101,Turkish Airlines,DOH,LHE,04:45,11:45,On Time
+F0102,Emirates,JED,ISB,00:15,06:15,On Time
+F0103,Qatar Airways,JED,DXB,17:45,02:45,On Time
+F0104,Qatar Airways,LHE,IST,16:45,19:45,Delayed
+F0105,Etihad Airways,AUH,ISB,07:15,13:15,Delayed
+F0106,Turkish Airlines,ISB,LHE,14:00,17:00,On Time
+F0107,Emirates,AUH,KHI,10:45,16:45,Delayed
+F0108,Etihad Airways,ISB,JED,00:45,05:45,On Time
+F0109,PIA,JED,KHI,08:15,17:15,On Time
+F0110,Turkish Airlines,IST,JED,08:45,13:45,Cancelled
+F0111,Turkish Airlines,DOH,ISB,14:15,16:15,On Time
+F0112,SereneAir,LHE,AUH,23:30,03:30,Delayed
+F0113,Turkish Airlines,KHI,IST,18:15,03:15,On Time
+F0114,Emirates,KHI,IST,10:15,18:15,On Time
+F0115,Qatar Airways,JED,KHI,13:00,22:00,Delayed
+F0116,AirBlue,KHI,DXB,20:30,21:30,On Time
+F0117,Turkish Airlines,LHE,ISB,13:45,18:45,On Time
+F0118,Etihad Airways,JED,KHI,18:30,02:30,On Time
+F0119,PIA,LHE,IST,02:30,03:30,On Time
+F0120,AirBlue,KHI,DOH,03:30,10:30,On Time
+F0121,Etihad Airways,IST,DOH,20:00,06:00,Delayed
+F0122,SereneAir,DXB,DOH,18:30,23:30,On Time
+F0123,Turkish Airlines,ISB,KHI,14:45,17:45,Delayed
+F0124,Qatar Airways,AUH,JED,10:15,17:15,On Time
+F0125,Emirates,AUH,IST,22:30,08:30,On Time
+F0126,AirBlue,LHE,JED,15:45,20:45,Delayed
+F0127,Qatar Airways,DXB,IST,14:30,19:30,Cancelled
+F0128,Etihad Airways,LHE,JED,21:00,02:00,On Time
+F0129,Etihad Airways,DXB,KHI,19:30,02:30,On Time
+F0130,Emirates,ISB,AUH,18:45,00:45,On Time
+F0131,Emirates,LHE,DXB,21:15,02:15,On Time
+F0132,Etihad Airways,DOH,DXB,16:30,18:30,On Time
+F0133,PIA,ISB,DXB,07:45,09:45,Delayed
+F0134,AirBlue,IST,LHE,20:00,01:00,On Time
+F0135,Qatar Airways,JED,AUH,03:45,11:45,On Time
+F0136,Etihad Airways,DOH,JED,20:00,03:00,On Time
+F0137,Turkish Airlines,DOH,DXB,01:00,10:00,On Time
+F0138,Etihad Airways,JED,DOH,17:30,18:30,Delayed
+F0139,Qatar Airways,AUH,DXB,21:30,06:30,Delayed
+F0140,Etihad Airways,KHI,DOH,22:45,01:45,On Time
+F0141,Emirates,ISB,IST,06:00,12:00,On Time
+F0142,Emirates,DOH,AUH,08:45,18:45,Delayed
+F0143,SereneAir,JED,IST,08:00,16:00,On Time
+F0144,Etihad Airways,DXB,LHE,02:15,05:15,On Time
+F0145,SereneAir,KHI,IST,08:45,13:45,On Time
+F0146,AirBlue,IST,JED,03:00,04:00,On Time
+F0147,SereneAir,DOH,JED,17:00,03:00,On Time
+F0148,Etihad Airways,DOH,JED,01:45,06:45,On Time
+F0149,Etihad Airways,KHI,DXB,10:30,12:30,Cancelled
+F0150,Emirates,JED,DXB,19:45,03:45,On Time
+F0151,Turkish Airlines,DOH,AUH,22:30,07:30,On Time
+F0152,Qatar Airways,DOH,JED,01:45,06:45,On Time
+F0153,PIA,DXB,IST,15:00,21:00,On Time
+F0154,Emirates,DOH,AUH,20:15,23:15,Delayed
+F0155,Turkish Airlines,LHE,IST,08:45,13:45,Cancelled
+F0156,Qatar Airways,KHI,LHE,15:45,21:45,On Time
+F0157,SereneAir,LHE,JED,15:15,20:15,On Time
+F0158,Qatar Airways,JED,DXB,02:15,11:15,On Time
+F0159,Turkish Airlines,LHE,KHI,16:00,18:00,On Time
+F0160,AirBlue,IST,KHI,00:45,10:45,On Time
+F0161,Etihad Airways,DOH,AUH,02:45,07:45,On Time
+F0162,SereneAir,IST,DOH,05:00,13:00,On Time
+F0163,Emirates,IST,AUH,07:15,17:15,Delayed
+F0164,AirBlue,AUH,JED,20:15,05:15,On Time
+F0165,PIA,ISB,LHE,23:15,00:15,Delayed
+F0166,Emirates,DOH,JED,23:45,08:45,On Time
+F0167,Turkish Airlines,DXB,ISB,21:45,22:45,On Time
+F0168,PIA,LHE,DXB,10:45,15:45,On Time
+F0169,AirBlue,LHE,AUH,17:30,21:30,On Time
+F0170,Turkish Airlines,DOH,AUH,11:45,15:45,On Time
+F0171,Qatar Airways,AUH,JED,23:30,07:30,On Time
+F0172,PIA,DXB,DOH,14:45,21:45,On Time
+F0173,SereneAir,LHE,DXB,14:45,00:45,Delayed
+F0174,Qatar Airways,ISB,DXB,15:15,23:15,On Time
+F0175,PIA,JED,DOH,06:15,10:15,Cancelled
+F0176,Etihad Airways,IST,LHE,01:45,07:45,On Time
+F0177,SereneAir,AUH,DXB,08:30,17:30,Cancelled
+F0178,AirBlue,DOH,ISB,09:45,16:45,On Time
+F0179,PIA,KHI,JED,17:45,03:45,On Time
+F0180,SereneAir,DOH,JED,07:30,16:30,On Time
+F0181,Emirates,LHE,ISB,11:15,13:15,On Time
+F0182,Turkish Airlines,LHE,DOH,13:15,23:15,On Time
+F0183,Turkish Airlines,AUH,DXB,14:00,22:00,On Time
+F0184,Qatar Airways,IST,JED,08:45,17:45,Cancelled
+F0185,AirBlue,DOH,JED,07:15,13:15,On Time
+F0186,Emirates,IST,LHE,15:15,20:15,On Time
+F0187,Emirates,IST,ISB,06:00,09:00,On Time
+F0188,Turkish Airlines,AUH,KHI,21:45,23:45,Cancelled
+F0189,Emirates,KHI,JED,15:30,01:30,On Time
+F0190,Emirates,AUH,JED,16:45,23:45,On Time
+F0191,Qatar Airways,JED,DXB,17:30,01:30,On Time
+F0192,Turkish Airlines,ISB,DXB,17:45,03:45,On Time
+F0193,SereneAir,LHE,AUH,20:45,22:45,On Time
+F0194,PIA,KHI,JED,10:45,17:45,On Time
+F0195,Emirates,KHI,JED,02:00,03:00,Cancelled
+F0196,AirBlue,AUH,KHI,16:45,21:45,Delayed
+F0197,SereneAir,AUH,LHE,17:15,21:15,On Time
+F0198,Emirates,IST,DXB,14:00,22:00,Cancelled
+F0199,Turkish Airlines,DOH,IST,12:30,14:30,On Time
+F0200,Etihad Airways,AUH,DXB,17:15,21:15,On Time
+F0201,AirBlue,JED,ISB,11:00,17:00,Delayed
+F0202,Etihad Airways,IST,ISB,12:45,15:45,On Time
+F0203,Qatar Airways,DXB,JED,21:00,01:00,On Time
+F0204,Etihad Airways,JED,LHE,12:45,17:45,On Time
+F0205,SereneAir,ISB,AUH,11:00,12:00,Delayed
+F0206,SereneAir,LHE,DXB,00:15,08:15,Cancelled
+F0207,SereneAir,KHI,AUH,13:15,21:15,On Time
+F0208,Etihad Airways,DXB,AUH,02:00,11:00,On Time
+F0209,Etihad Airways,IST,DOH,01:30,03:30,On Time
+F0210,PIA,ISB,DXB,16:45,20:45,On Time
+F0211,Emirates,KHI,DOH,02:45,05:45,On Time
+F0212,Qatar Airways,ISB,JED,00:45,10:45,On Time
+F0213,Qatar Airways,ISB,KHI,11:30,18:30,On Time
+F0214,AirBlue,KHI,AUH,07:30,09:30,Delayed
+F0215,PIA,DXB,LHE,22:45,05:45,On Time
+F0216,Qatar Airways,LHE,JED,10:00,12:00,On Time
+F0217,AirBlue,KHI,IST,10:15,16:15,On Time
+F0218,Qatar Airways,JED,DOH,16:00,22:00,On Time
+F0219,Emirates,DOH,DXB,00:45,10:45,On Time
+F0220,Turkish Airlines,IST,JED,08:45,11:45,On Time
+F0221,Qatar Airways,DXB,KHI,14:45,22:45,Delayed
+F0222,Emirates,DXB,JED,08:00,09:00,On Time
+F0223,Turkish Airlines,DOH,JED,08:30,11:30,On Time
+F0224,SereneAir,KHI,IST,17:30,21:30,Delayed
+F0225,AirBlue,ISB,DXB,05:00,12:00,On Time
+F0226,Etihad Airways,IST,JED,13:30,17:30,Delayed
+F0227,PIA,JED,LHE,23:45,09:45,On Time
+F0228,Emirates,IST,ISB,02:00,06:00,Cancelled
+F0229,Turkish Airlines,JED,KHI,00:45,09:45,On Time
+F0230,Emirates,LHE,ISB,03:45,07:45,Delayed
+F0231,PIA,JED,DOH,07:15,10:15,Delayed
+F0232,Etihad Airways,LHE,DOH,04:30,07:30,On Time
+F0233,SereneAir,DXB,ISB,05:00,09:00,On Time
+F0234,Turkish Airlines,ISB,DXB,09:15,17:15,On Time
+F0235,AirBlue,IST,LHE,05:30,09:30,On Time
+F0236,Qatar Airways,AUH,DOH,02:30,10:30,On Time
+F0237,Emirates,DOH,DXB,11:45,20:45,Cancelled
+F0238,Qatar Airways,ISB,AUH,04:15,09:15,On Time
+F0239,PIA,DOH,JED,12:30,15:30,On Time
+F0240,Emirates,JED,IST,19:45,05:45,Delayed
+F0241,Qatar Airways,AUH,ISB,20:30,22:30,On Time
+F0242,SereneAir,DOH,KHI,22:30,03:30,On Time
+F0243,PIA,JED,DOH,13:30,21:30,Delayed
+F0244,Emirates,ISB,DXB,17:00,01:00,On Time
+F0245,Emirates,DOH,LHE,19:15,03:15,Delayed
+F0246,AirBlue,JED,IST,00:15,03:15,On Time
+F0247,Turkish Airlines,KHI,DOH,16:15,02:15,On Time
+F0248,AirBlue,KHI,DOH,21:30,07:30,On Time
+F0249,SereneAir,AUH,IST,16:30,18:30,Delayed
+F0250,Emirates,AUH,IST,06:00,08:00,On Time
+F0251,Etihad Airways,IST,KHI,01:00,04:00,On Time
+F0252,PIA,DOH,IST,14:15,19:15,On Time
+F0253,AirBlue,DXB,LHE,18:15,21:15,On Time
+F0254,Qatar Airways,IST,LHE,21:30,07:30,On Time
+F0255,PIA,LHE,JED,00:30,07:30,On Time
+F0256,Turkish Airlines,DOH,ISB,22:15,08:15,On Time
+F0257,Turkish Airlines,JED,DXB,00:15,05:15,On Time
+F0258,Etihad Airways,ISB,LHE,17:00,18:00,On Time
+F0259,AirBlue,LHE,DXB,01:15,07:15,On Time
+F0260,SereneAir,DOH,KHI,14:15,17:15,On Time
+F0261,Emirates,KHI,JED,14:00,19:00,On Time
+F0262,Turkish Airlines,DXB,ISB,12:15,16:15,Delayed
+F0263,Qatar Airways,LHE,IST,14:15,19:15,On Time
+F0264,Emirates,LHE,JED,17:00,00:00,On Time
+F0265,Qatar Airways,JED,ISB,07:00,13:00,On Time
+F0266,Etihad Airways,KHI,IST,16:00,19:00,On Time
+F0267,SereneAir,DOH,LHE,11:00,21:00,On Time
+F0268,PIA,ISB,IST,16:00,01:00,On Time
+F0269,PIA,DOH,KHI,11:30,12:30,On Time
+F0270,Emirates,KHI,AUH,14:45,18:45,On Time
+F0271,SereneAir,DXB,ISB,11:30,16:30,On Time
+F0272,Etihad Airways,DXB,ISB,08:30,18:30,On Time
+F0273,Emirates,DOH,ISB,17:00,03:00,Delayed
+F0274,Turkish Airlines,DXB,KHI,06:30,09:30,Delayed
+F0275,PIA,KHI,AUH,21:45,22:45,On Time
+F0276,Emirates,DXB,IST,10:30,18:30,On Time
+F0277,SereneAir,AUH,DXB,18:15,21:15,Delayed
+F0278,Etihad Airways,IST,DOH,18:30,03:30,Cancelled
+F0279,Emirates,AUH,JED,06:15,13:15,On Time
+F0280,Turkish Airlines,KHI,AUH,03:00,10:00,Delayed
+F0281,Etihad Airways,JED,IST,14:15,23:15,Delayed
+F0282,Qatar Airways,LHE,DOH,03:30,13:30,On Time
+F0283,AirBlue,DOH,DXB,21:45,23:45,Cancelled
+F0284,Emirates,LHE,DOH,10:00,18:00,On Time
+F0285,Etihad Airways,KHI,AUH,21:15,22:15,Cancelled
+F0286,Emirates,LHE,KHI,23:15,04:15,On Time
+F0287,Etihad Airways,LHE,KHI,02:45,08:45,On Time
+F0288,Emirates,AUH,DOH,18:15,03:15,Delayed
+F0289,PIA,DOH,IST,06:00,16:00,On Time
+F0290,Turkish Airlines,ISB,DOH,00:00,04:00,On Time
+F0291,Qatar Airways,AUH,DOH,18:00,21:00,Delayed
+F0292,Turkish Airlines,ISB,LHE,07:45,16:45,On Time
+F0293,AirBlue,IST,AUH,16:45,02:45,Cancelled
+F0294,Emirates,IST,JED,13:45,14:45,On Time
+F0295,Etihad Airways,JED,LHE,10:00,12:00,On Time
+F0296,Etihad Airways,AUH,IST,06:45,12:45,Cancelled
+F0297,AirBlue,IST,JED,10:45,20:45,On Time
+F0298,AirBlue,DXB,IST,03:00,08:00,On Time
+F0299,Etihad Airways,JED,ISB,16:00,17:00,On Time
+F0300,AirBlue,ISB,AUH,02:30,08:30,On Time
+F0301,AirBlue,LHE,KHI,10:15,18:15,On Time
+F0302,SereneAir,ISB,DOH,21:15,04:15,Delayed
+F0303,Qatar Airways,DOH,IST,11:00,18:00,On Time
+F0304,Qatar Airways,IST,AUH,01:30,03:30,On Time
+F0305,Emirates,ISB,IST,04:45,05:45,Cancelled
+F0306,Emirates,LHE,AUH,21:15,02:15,On Time
+F0307,PIA,JED,LHE,22:00,00:00,Delayed
+F0308,Qatar Airways,JED,LHE,20:15,05:15,On Time
+F0309,SereneAir,ISB,JED,11:30,12:30,On Time
+F0310,AirBlue,ISB,IST,02:30,03:30,On Time
+F0311,Etihad Airways,DOH,DXB,00:00,03:00,Cancelled
+F0312,PIA,IST,DXB,01:15,07:15,Delayed
+F0313,AirBlue,IST,DXB,01:45,08:45,On Time
+F0314,Qatar Airways,LHE,DOH,19:00,20:00,On Time
+F0315,Emirates,DOH,KHI,15:30,00:30,On Time
+F0316,PIA,ISB,LHE,20:45,03:45,Delayed
+F0317,PIA,LHE,AUH,19:30,00:30,On Time
+F0318,SereneAir,DOH,LHE,10:00,17:00,On Time
+F0319,Emirates,KHI,DXB,04:45,13:45,On Time
+F0320,PIA,IST,KHI,16:15,19:15,On Time
+F0321,Qatar Airways,AUH,JED,17:45,03:45,Delayed
+F0322,Etihad Airways,DOH,IST,08:45,18:45,On Time
+F0323,PIA,DXB,JED,01:45,05:45,On Time
+F0324,AirBlue,DOH,JED,04:15,13:15,On Time
+F0325,SereneAir,ISB,IST,10:15,12:15,On Time
+F0326,AirBlue,DOH,JED,10:15,11:15,On Time
+F0327,Turkish Airlines,ISB,AUH,03:15,13:15,Delayed
+F0328,PIA,DXB,IST,03:30,12:30,Cancelled
+F0329,Qatar Airways,DOH,KHI,20:15,04:15,Delayed
+F0330,Etihad Airways,KHI,AUH,02:45,09:45,Delayed
+F0331,PIA,KHI,IST,22:45,23:45,Delayed
+F0332,PIA,IST,AUH,11:00,19:00,On Time
+F0333,PIA,LHE,ISB,00:30,09:30,On Time
+F0334,Emirates,DXB,LHE,11:00,18:00,On Time
+F0335,Turkish Airlines,DXB,KHI,03:00,06:00,On Time
+F0336,Turkish Airlines,IST,AUH,20:15,04:15,On Time
+F0337,SereneAir,AUH,KHI,02:30,10:30,On Time
+F0338,Turkish Airlines,LHE,ISB,04:45,13:45,On Time
+F0339,AirBlue,LHE,ISB,03:15,12:15,Cancelled
+F0340,SereneAir,ISB,KHI,21:30,03:30,On Time
+F0341,AirBlue,DXB,AUH,23:45,05:45,On Time
+F0342,Emirates,AUH,IST,12:15,22:15,On Time
+F0343,Emirates,JED,AUH,03:00,09:00,On Time
+F0344,AirBlue,JED,KHI,09:15,15:15,On Time
+F0345,Turkish Airlines,DXB,DOH,20:45,21:45,On Time
+F0346,Qatar Airways,JED,ISB,11:45,16:45,On Time
+F0347,SereneAir,IST,JED,22:30,00:30,Delayed
+F0348,Qatar Airways,LHE,DOH,10:15,19:15,On Time
+F0349,Etihad Airways,JED,DOH,04:45,07:45,On Time
+F0350,AirBlue,AUH,DOH,23:00,03:00,On Time
+F0351,Emirates,JED,KHI,10:45,11:45,On Time
+F0352,Qatar Airways,AUH,KHI,02:15,12:15,Delayed
+F0353,Etihad Airways,JED,ISB,17:15,21:15,On Time
+F0354,SereneAir,DXB,AUH,23:15,01:15,Delayed
+F0355,Qatar Airways,LHE,DOH,21:30,03:30,Cancelled
+F0356,Etihad Airways,DXB,JED,01:00,06:00,Delayed
+F0357,Etihad Airways,LHE,IST,19:15,05:15,On Time
+F0358,PIA,DXB,KHI,02:15,08:15,Delayed
+F0359,Emirates,KHI,ISB,12:00,19:00,Delayed
+F0360,Emirates,DOH,DXB,02:45,10:45,On Time
+F0361,AirBlue,DOH,IST,06:45,12:45,On Time
+F0362,Qatar Airways,KHI,DOH,22:45,01:45,Cancelled
+F0363,Emirates,LHE,DOH,02:30,09:30,Delayed
+F0364,Turkish Airlines,LHE,JED,23:15,06:15,On Time
+F0365,Turkish Airlines,DOH,IST,09:30,14:30,On Time
+F0366,Etihad Airways,JED,IST,21:00,03:00,On Time
+F0367,Qatar Airways,LHE,AUH,15:15,19:15,On Time
+F0368,Emirates,DOH,AUH,08:00,17:00,On Time
+F0369,Turkish Airlines,DXB,JED,08:00,14:00,On Time
+F0370,Etihad Airways,KHI,DXB,01:15,09:15,On Time
+F0371,Etihad Airways,KHI,LHE,09:15,19:15,Delayed
+F0372,Etihad Airways,IST,DXB,20:15,03:15,On Time
+F0373,Qatar Airways,DXB,ISB,07:00,13:00,On Time
+F0374,Qatar Airways,ISB,LHE,06:45,07:45,On Time
+F0375,SereneAir,KHI,AUH,10:00,16:00,On Time
+F0376,Emirates,AUH,IST,19:30,23:30,On Time
+F0377,Qatar Airways,KHI,LHE,13:30,14:30,On Time
+F0378,Etihad Airways,IST,ISB,22:30,04:30,On Time
+F0379,PIA,ISB,AUH,22:00,01:00,On Time
+F0380,Emirates,KHI,ISB,16:45,22:45,On Time
+F0381,SereneAir,AUH,IST,17:45,02:45,On Time
+F0382,PIA,JED,DXB,07:45,11:45,On Time
+F0383,SereneAir,AUH,DXB,08:45,16:45,Delayed
+F0384,Turkish Airlines,KHI,DXB,23:45,00:45,On Time
+F0385,Qatar Airways,LHE,DXB,14:15,17:15,Cancelled
+F0386,AirBlue,JED,ISB,02:30,08:30,Delayed
+F0387,AirBlue,ISB,IST,19:15,02:15,On Time
+F0388,Etihad Airways,DXB,IST,12:45,14:45,Delayed
+F0389,PIA,IST,KHI,17:45,22:45,On Time
+F0390,Emirates,ISB,LHE,13:30,22:30,On Time
+F0391,Etihad Airways,DOH,JED,05:45,08:45,Delayed
+F0392,PIA,AUH,DXB,18:45,03:45,On Time
+F0393,Qatar Airways,AUH,KHI,12:00,21:00,On Time
+F0394,Emirates,IST,AUH,23:15,02:15,On Time
+F0395,Emirates,DXB,ISB,19:15,23:15,Delayed
+F0396,Turkish Airlines,JED,KHI,03:45,12:45,Cancelled
+F0397,PIA,DOH,JED,06:30,10:30,On Time
+F0398,SereneAir,JED,DOH,14:00,17:00,On Time
+F0399,AirBlue,IST,KHI,10:45,14:45,On Time
+F0400,AirBlue,JED,IST,17:30,21:30,On Time
+F0401,Etihad Airways,IST,LHE,03:00,06:00,Delayed
+F0402,Etihad Airways,AUH,ISB,12:15,22:15,On Time
+F0403,Etihad Airways,DOH,LHE,04:15,06:15,On Time
+F0404,Turkish Airlines,LHE,DOH,05:15,14:15,On Time
+F0405,Qatar Airways,JED,IST,20:15,01:15,On Time
+F0406,Qatar Airways,LHE,ISB,17:30,22:30,On Time
+F0407,Turkish Airlines,AUH,KHI,08:15,17:15,On Time
+F0408,Emirates,DXB,DOH,21:45,01:45,On Time
+F0409,Qatar Airways,IST,LHE,17:00,22:00,On Time
+F0410,AirBlue,IST,AUH,18:00,21:00,On Time
+F0411,AirBlue,DOH,IST,23:30,01:30,On Time
+F0412,PIA,AUH,KHI,18:45,19:45,On Time
+F0413,PIA,JED,IST,19:45,01:45,On Time
+F0414,Etihad Airways,DOH,DXB,00:45,05:45,On Time
+F0415,Emirates,LHE,KHI,05:00,15:00,On Time
+F0416,Emirates,IST,AUH,21:45,05:45,On Time
+F0417,Emirates,DOH,AUH,10:00,19:00,Cancelled
+F0418,Qatar Airways,ISB,KHI,07:45,08:45,On Time
+F0419,SereneAir,ISB,DOH,02:45,08:45,On Time
+F0420,PIA,DXB,IST,05:45,07:45,On Time
+F0421,AirBlue,IST,AUH,20:45,00:45,On Time
+F0422,Qatar Airways,ISB,LHE,21:30,22:30,Delayed
+F0423,Qatar Airways,DXB,LHE,22:15,23:15,Delayed
+F0424,Etihad Airways,LHE,KHI,14:00,18:00,On Time
+F0425,AirBlue,IST,LHE,13:00,14:00,On Time
+F0426,Etihad Airways,AUH,DXB,17:45,22:45,On Time
+F0427,Qatar Airways,KHI,JED,08:15,09:15,On Time
+F0428,Etihad Airways,ISB,AUH,23:00,08:00,On Time
+F0429,Etihad Airways,LHE,DOH,17:15,03:15,On Time
+F0430,Turkish Airlines,IST,KHI,06:30,10:30,On Time
+F0431,Etihad Airways,LHE,KHI,09:15,11:15,On Time
+F0432,PIA,LHE,AUH,05:00,11:00,On Time
+F0433,AirBlue,DOH,ISB,21:30,01:30,On Time
+F0434,Qatar Airways,ISB,IST,16:30,21:30,Delayed
+F0435,Emirates,LHE,DXB,23:45,00:45,On Time
+F0436,Etihad Airways,IST,DOH,00:15,03:15,On Time
+F0437,Emirates,ISB,JED,10:45,12:45,Delayed
+F0438,Turkish Airlines,DXB,JED,15:30,23:30,On Time
+F0439,SereneAir,DOH,LHE,20:30,00:30,On Time
+F0440,Etihad Airways,LHE,ISB,12:30,16:30,Delayed
+F0441,Etihad Airways,LHE,KHI,05:45,14:45,On Time
+F0442,Turkish Airlines,JED,IST,22:00,05:00,On Time
+F0443,PIA,IST,KHI,08:45,15:45,On Time
+F0444,PIA,KHI,DXB,18:30,00:30,On Time
+F0445,Emirates,IST,LHE,10:15,19:15,Delayed
+F0446,Emirates,ISB,LHE,04:45,08:45,On Time
+F0447,PIA,AUH,DXB,07:45,13:45,Delayed
+F0448,Turkish Airlines,DOH,AUH,15:30,21:30,On Time
+F0449,Etihad Airways,AUH,IST,07:15,08:15,Cancelled
+F0450,PIA,ISB,DOH,05:45,10:45,On Time
+F0451,Qatar Airways,DXB,AUH,03:15,07:15,On Time
+F0452,Turkish Airlines,DXB,JED,15:00,00:00,On Time
+F0453,Emirates,AUH,JED,06:30,14:30,On Time
+F0454,PIA,LHE,ISB,05:30,07:30,On Time
+F0455,Qatar Airways,ISB,IST,05:30,15:30,Delayed
+F0456,Emirates,KHI,ISB,14:00,18:00,Delayed
+F0457,Emirates,IST,AUH,19:30,20:30,On Time
+F0458,Etihad Airways,ISB,AUH,06:45,10:45,On Time
+F0459,Emirates,DOH,AUH,22:15,08:15,On Time
+F0460,AirBlue,JED,IST,21:30,05:30,On Time
+F0461,Etihad Airways,IST,ISB,08:15,18:15,On Time
+F0462,Turkish Airlines,IST,DXB,23:15,00:15,On Time
+F0463,Turkish Airlines,ISB,LHE,05:15,11:15,On Time
+F0464,Etihad Airways,DXB,IST,23:45,03:45,On Time
+F0465,SereneAir,JED,IST,20:15,05:15,On Time
+F0466,Etihad Airways,DOH,KHI,01:45,03:45,On Time
+F0467,Qatar Airways,KHI,IST,21:15,01:15,On Time
+F0468,PIA,JED,DXB,14:45,19:45,On Time
+F0469,SereneAir,KHI,DOH,23:00,08:00,Delayed
+F0470,PIA,LHE,ISB,14:30,22:30,On Time
+F0471,AirBlue,DXB,LHE,05:15,13:15,On Time
+F0472,AirBlue,LHE,IST,09:45,18:45,Delayed
+F0473,Turkish Airlines,IST,LHE,17:15,02:15,On Time
+F0474,Turkish Airlines,LHE,IST,07:45,17:45,Delayed
+F0475,SereneAir,DXB,JED,22:45,01:45,Delayed
+F0476,Etihad Airways,LHE,DXB,11:15,21:15,On Time
+F0477,PIA,KHI,JED,20:00,04:00,On Time
+F0478,PIA,IST,ISB,14:15,16:15,On Time
+F0479,PIA,LHE,DXB,12:30,18:30,On Time
+F0480,PIA,LHE,DXB,12:15,20:15,On Time
+F0481,Etihad Airways,DXB,IST,00:00,01:00,Cancelled
+F0482,Qatar Airways,KHI,JED,10:45,19:45,Delayed
+F0483,Etihad Airways,IST,KHI,06:00,12:00,On Time
+F0484,Emirates,AUH,DOH,10:30,17:30,Cancelled
+F0485,Emirates,KHI,ISB,03:15,08:15,On Time
+F0486,SereneAir,JED,KHI,23:15,07:15,On Time
+F0487,SereneAir,JED,DOH,05:45,15:45,On Time
+F0488,PIA,DXB,LHE,23:45,02:45,On Time
+F0489,Turkish Airlines,KHI,IST,05:15,07:15,Cancelled
+F0490,Qatar Airways,DOH,ISB,23:15,04:15,On Time
+F0491,Turkish Airlines,DOH,IST,07:45,17:45,On Time
+F0492,Turkish Airlines,AUH,DOH,21:00,06:00,Delayed
+F0493,AirBlue,JED,DOH,08:45,16:45,On Time
+F0494,Emirates,DXB,AUH,04:30,13:30,On Time
+F0495,PIA,KHI,DOH,19:15,00:15,Cancelled
+F0496,AirBlue,KHI,DOH,06:30,09:30,Delayed
+F0497,Emirates,AUH,ISB,18:30,23:30,Delayed
+F0498,PIA,AUH,DXB,00:30,09:30,Delayed
+F0499,SereneAir,IST,KHI,20:45,00:45,Delayed
+F0500,Qatar Airways,LHE,AUH,02:15,11:15,On Time
+F0501,Qatar Airways,DXB,IST,18:15,02:15,On Time
+F0502,SereneAir,JED,LHE,16:00,01:00,On Time
+F0503,Qatar Airways,AUH,KHI,08:15,18:15,Delayed
+F0504,Qatar Airways,DXB,AUH,01:15,04:15,On Time
+F0505,PIA,AUH,DXB,03:15,10:15,Delayed
+F0506,Turkish Airlines,JED,DXB,04:30,14:30,On Time
+F0507,Etihad Airways,AUH,KHI,10:45,18:45,On Time
+F0508,Qatar Airways,DXB,AUH,08:45,13:45,Cancelled
+F0509,AirBlue,LHE,IST,01:00,02:00,On Time
+F0510,Turkish Airlines,JED,AUH,13:30,19:30,On Time
+F0511,Etihad Airways,KHI,LHE,12:30,20:30,On Time
+F0512,Emirates,DOH,JED,06:15,08:15,On Time
+F0513,Etihad Airways,DOH,ISB,03:45,12:45,On Time
+F0514,Turkish Airlines,DXB,DOH,08:15,09:15,Cancelled
+F0515,PIA,ISB,LHE,19:15,05:15,On Time
+F0516,Emirates,IST,DXB,06:30,15:30,Delayed
+F0517,Qatar Airways,DXB,AUH,09:45,13:45,On Time
+F0518,Qatar Airways,AUH,IST,06:30,13:30,Delayed
+F0519,PIA,DXB,KHI,20:00,01:00,Cancelled
+F0520,Etihad Airways,ISB,LHE,10:45,13:45,On Time
+F0521,AirBlue,AUH,LHE,00:15,05:15,On Time
+F0522,Qatar Airways,DXB,DOH,08:30,11:30,On Time
+F0523,SereneAir,JED,LHE,03:00,12:00,On Time
+F0524,PIA,DOH,IST,02:00,05:00,On Time
+F0525,PIA,DOH,AUH,03:45,10:45,Cancelled
+F0526,Qatar Airways,IST,DOH,09:15,12:15,On Time
+F0527,Turkish Airlines,LHE,DXB,12:00,13:00,Delayed
+F0528,Etihad Airways,DXB,ISB,01:30,08:30,On Time
+F0529,Emirates,DOH,DXB,16:45,00:45,On Time
+F0530,Qatar Airways,AUH,KHI,05:30,09:30,On Time
+F0531,SereneAir,KHI,ISB,11:15,21:15,Cancelled
+F0532,Qatar Airways,LHE,DXB,16:45,19:45,Cancelled
+F0533,Etihad Airways,KHI,DXB,01:15,04:15,Delayed
+F0534,AirBlue,KHI,LHE,20:45,01:45,On Time
+F0535,Emirates,IST,LHE,02:30,05:30,Cancelled
+F0536,Qatar Airways,IST,ISB,06:45,15:45,On Time
+F0537,SereneAir,KHI,DXB,22:45,23:45,On Time
+F0538,AirBlue,KHI,DOH,22:30,02:30,Delayed
+F0539,PIA,IST,AUH,11:45,15:45,On Time
+F0540,Qatar Airways,DOH,ISB,22:15,03:15,On Time
+F0541,AirBlue,KHI,ISB,16:30,21:30,On Time
+F0542,Qatar Airways,KHI,LHE,15:00,17:00,On Time
+F0543,Turkish Airlines,DXB,KHI,22:45,05:45,On Time
+F0544,PIA,DXB,ISB,07:00,10:00,Delayed
+F0545,SereneAir,LHE,JED,07:30,14:30,On Time
+F0546,SereneAir,AUH,LHE,04:00,10:00,On Time
+F0547,Etihad Airways,DOH,IST,09:30,15:30,Cancelled
+F0548,PIA,KHI,AUH,19:30,04:30,On Time
+F0549,Turkish Airlines,DOH,AUH,13:45,17:45,Delayed
+F0550,SereneAir,KHI,AUH,11:30,14:30,Cancelled
+F0551,AirBlue,ISB,JED,12:45,15:45,Delayed
+F0552,Qatar Airways,LHE,DXB,09:45,12:45,On Time
+F0553,AirBlue,IST,AUH,08:45,18:45,On Time
+F0554,Turkish Airlines,ISB,DOH,14:45,23:45,On Time
+F0555,Emirates,LHE,DOH,11:30,18:30,On Time
+F0556,Qatar Airways,KHI,DOH,17:45,01:45,Delayed
+F0557,AirBlue,IST,JED,05:30,08:30,On Time
+F0558,PIA,JED,DXB,19:00,04:00,Delayed
+F0559,Qatar Airways,AUH,JED,06:30,10:30,On Time
+F0560,AirBlue,ISB,IST,05:45,15:45,On Time
+F0561,PIA,JED,ISB,06:00,11:00,On Time
+F0562,Etihad Airways,AUH,LHE,01:45,10:45,Delayed
+F0563,PIA,ISB,DOH,21:00,01:00,On Time
+F0564,Turkish Airlines,DXB,AUH,07:45,09:45,On Time
+F0565,Emirates,IST,JED,19:00,21:00,On Time
+F0566,Turkish Airlines,DXB,ISB,01:15,06:15,Cancelled
+F0567,PIA,DXB,AUH,15:15,00:15,On Time
+F0568,Emirates,AUH,DXB,22:30,07:30,On Time
+F0569,Qatar Airways,AUH,KHI,14:00,18:00,Cancelled
+F0570,Emirates,KHI,JED,05:45,07:45,Delayed
+F0571,AirBlue,KHI,LHE,19:45,21:45,On Time
+F0572,AirBlue,LHE,ISB,03:45,09:45,On Time
+F0573,PIA,IST,KHI,23:45,04:45,On Time
+F0574,Turkish Airlines,DXB,DOH,05:30,13:30,On Time
+F0575,Etihad Airways,DOH,DXB,12:30,15:30,Delayed
+F0576,PIA,DXB,AUH,18:00,03:00,Cancelled
+F0577,SereneAir,IST,LHE,15:30,18:30,Cancelled
+F0578,PIA,JED,LHE,12:00,20:00,On Time
+F0579,SereneAir,JED,IST,18:15,23:15,On Time
+F0580,PIA,DXB,LHE,03:00,05:00,Delayed
+F0581,PIA,IST,JED,00:15,04:15,On Time
+F0582,Qatar Airways,LHE,AUH,13:30,15:30,On Time
+F0583,Etihad Airways,IST,AUH,10:15,17:15,On Time
+F0584,Qatar Airways,LHE,ISB,02:45,07:45,On Time
+F0585,Etihad Airways,DOH,JED,20:30,05:30,On Time
+F0586,Emirates,JED,ISB,01:45,09:45,Cancelled
+F0587,Qatar Airways,AUH,IST,20:45,01:45,On Time
+F0588,Qatar Airways,JED,DXB,12:30,19:30,On Time
+F0589,PIA,DOH,KHI,22:00,02:00,On Time
+F0590,SereneAir,DOH,DXB,18:00,00:00,Delayed
+F0591,AirBlue,LHE,IST,02:30,10:30,Delayed
+F0592,AirBlue,DOH,KHI,15:15,20:15,Cancelled
+F0593,SereneAir,DOH,LHE,05:15,09:15,On Time
+F0594,Qatar Airways,DOH,AUH,10:15,13:15,Cancelled
+F0595,AirBlue,ISB,LHE,19:30,20:30,On Time
+F0596,PIA,JED,KHI,18:00,23:00,On Time
+F0597,SereneAir,ISB,JED,14:15,17:15,On Time
+F0598,SereneAir,JED,DOH,00:30,07:30,On Time
+F0599,AirBlue,JED,KHI,17:45,00:45,Cancelled
+F0600,SereneAir,LHE,ISB,22:00,03:00,Delayed
+F0601,Qatar Airways,DOH,KHI,14:00,21:00,On Time
+F0602,Turkish Airlines,ISB,LHE,13:30,16:30,On Time
+F0603,Turkish Airlines,ISB,DXB,22:00,01:00,On Time
+F0604,Etihad Airways,ISB,AUH,00:45,04:45,On Time
+F0605,PIA,ISB,AUH,09:30,14:30,Delayed
+F0606,PIA,JED,KHI,19:30,23:30,Delayed
+F0607,AirBlue,ISB,DOH,14:15,19:15,On Time
+F0608,Emirates,DOH,IST,02:00,06:00,Delayed
+F0609,Emirates,DOH,AUH,19:00,21:00,On Time
+F0610,SereneAir,ISB,KHI,11:15,16:15,Cancelled
+F0611,Turkish Airlines,ISB,DXB,18:45,23:45,On Time
+F0612,Etihad Airways,ISB,LHE,08:00,10:00,Delayed
+F0613,SereneAir,IST,JED,10:30,12:30,On Time
+F0614,PIA,IST,DOH,15:30,21:30,On Time
+F0615,Qatar Airways,ISB,KHI,09:45,13:45,Cancelled
+F0616,Qatar Airways,ISB,KHI,06:15,14:15,Delayed
+F0617,SereneAir,ISB,DOH,19:30,04:30,On Time
+F0618,Etihad Airways,IST,DOH,14:15,23:15,On Time
+F0619,Emirates,ISB,IST,12:15,16:15,Cancelled
+F0620,Qatar Airways,KHI,LHE,21:45,07:45,Delayed
+F0621,Emirates,ISB,DXB,10:45,17:45,On Time
+F0622,Turkish Airlines,JED,LHE,10:00,20:00,On Time
+F0623,PIA,IST,AUH,07:15,08:15,On Time
+F0624,AirBlue,DXB,ISB,15:30,21:30,On Time
+F0625,SereneAir,DOH,JED,22:45,07:45,On Time
+F0626,Turkish Airlines,IST,KHI,18:30,02:30,On Time
+F0627,PIA,ISB,IST,15:30,17:30,On Time
+F0628,Emirates,KHI,ISB,17:00,02:00,Delayed
+F0629,Turkish Airlines,DXB,DOH,20:45,01:45,Delayed
+F0630,Qatar Airways,IST,DOH,03:45,10:45,On Time
+F0631,Etihad Airways,ISB,LHE,14:15,16:15,On Time
+F0632,Turkish Airlines,JED,DXB,09:30,18:30,On Time
+F0633,SereneAir,DXB,LHE,00:15,02:15,On Time
+F0634,AirBlue,DXB,JED,09:00,17:00,On Time
+F0635,SereneAir,LHE,ISB,23:30,03:30,Delayed
+F0636,Etihad Airways,DOH,ISB,06:30,07:30,On Time
+F0637,AirBlue,AUH,JED,07:45,11:45,On Time
+F0638,Emirates,JED,AUH,23:30,00:30,On Time
+F0639,PIA,KHI,JED,04:00,10:00,On Time
+F0640,Turkish Airlines,LHE,AUH,14:30,00:30,Delayed
+F0641,PIA,LHE,ISB,10:45,14:45,Cancelled
+F0642,Emirates,LHE,DOH,04:15,14:15,Delayed
+F0643,Emirates,IST,AUH,23:30,04:30,On Time
+F0644,Etihad Airways,LHE,DOH,14:30,19:30,Cancelled
+F0645,PIA,LHE,AUH,23:30,01:30,On Time
+F0646,Turkish Airlines,KHI,AUH,19:15,03:15,On Time
+F0647,AirBlue,LHE,DXB,10:45,18:45,On Time
+F0648,AirBlue,IST,JED,04:45,05:45,On Time
+F0649,PIA,DOH,ISB,07:15,15:15,On Time
+F0650,Etihad Airways,AUH,IST,07:30,16:30,On Time
+F0651,AirBlue,DXB,JED,12:45,21:45,Cancelled
+F0652,Turkish Airlines,LHE,JED,10:30,13:30,On Time
+F0653,PIA,JED,ISB,18:30,03:30,Cancelled
+F0654,Emirates,IST,KHI,20:45,02:45,On Time
+F0655,Turkish Airlines,ISB,LHE,17:00,03:00,On Time
+F0656,Qatar Airways,DXB,JED,14:00,23:00,On Time
+F0657,PIA,JED,ISB,13:15,14:15,On Time
+F0658,PIA,AUH,DOH,08:15,09:15,On Time
+F0659,Etihad Airways,ISB,AUH,17:00,21:00,On Time
+F0660,PIA,ISB,IST,07:15,13:15,On Time
+F0661,AirBlue,KHI,DOH,07:30,10:30,On Time
+F0662,PIA,IST,DOH,07:00,12:00,On Time
+F0663,Etihad Airways,DOH,AUH,03:30,10:30,On Time
+F0664,Etihad Airways,KHI,IST,22:15,08:15,Delayed
+F0665,Etihad Airways,AUH,JED,00:45,10:45,On Time
+F0666,SereneAir,DOH,KHI,21:15,02:15,On Time
+F0667,AirBlue,JED,LHE,16:15,02:15,Delayed
+F0668,Etihad Airways,ISB,DXB,05:30,06:30,Cancelled
+F0669,Qatar Airways,LHE,DOH,23:00,08:00,On Time
+F0670,Emirates,ISB,JED,03:45,05:45,On Time
+F0671,Etihad Airways,AUH,DOH,20:45,23:45,On Time
+F0672,PIA,ISB,JED,13:15,16:15,Delayed
+F0673,Qatar Airways,AUH,DXB,17:00,22:00,Delayed
+F0674,PIA,LHE,ISB,10:30,19:30,Cancelled
+F0675,Etihad Airways,JED,AUH,05:30,07:30,Delayed
+F0676,Qatar Airways,DXB,ISB,23:00,01:00,On Time
+F0677,Qatar Airways,AUH,DXB,03:00,09:00,On Time
+F0678,Etihad Airways,JED,DXB,09:30,12:30,Delayed
+F0679,PIA,LHE,DXB,20:30,01:30,Delayed
+F0680,SereneAir,AUH,IST,09:15,16:15,On Time
+F0681,Qatar Airways,DXB,KHI,02:30,06:30,On Time
+F0682,Etihad Airways,LHE,AUH,19:45,23:45,On Time
+F0683,Qatar Airways,DOH,JED,02:30,08:30,Cancelled
+F0684,AirBlue,DOH,DXB,00:45,02:45,On Time
+F0685,SereneAir,LHE,KHI,06:00,11:00,Cancelled
+F0686,PIA,AUH,JED,15:45,20:45,Delayed
+F0687,PIA,ISB,JED,20:15,06:15,On Time
+F0688,Emirates,DOH,AUH,02:00,12:00,On Time
+F0689,Qatar Airways,DXB,JED,01:00,05:00,On Time
+F0690,Etihad Airways,DOH,IST,07:00,14:00,Cancelled
+F0691,Emirates,DXB,IST,20:00,21:00,On Time
+F0692,SereneAir,KHI,DXB,02:30,03:30,On Time
+F0693,SereneAir,ISB,LHE,23:30,08:30,On Time
+F0694,Etihad Airways,LHE,JED,16:30,02:30,On Time
+F0695,SereneAir,LHE,JED,21:45,04:45,On Time
+F0696,Qatar Airways,DOH,JED,12:15,13:15,On Time
+F0697,PIA,KHI,ISB,06:30,15:30,Cancelled
+F0698,SereneAir,LHE,IST,04:30,09:30,On Time
+F0699,Turkish Airlines,DOH,KHI,08:30,10:30,On Time
+F0700,SereneAir,JED,DOH,19:00,23:00,On Time
+F0701,Etihad Airways,KHI,AUH,01:00,06:00,On Time
+F0702,PIA,AUH,KHI,05:00,06:00,On Time
+F0703,Emirates,ISB,AUH,09:45,11:45,Delayed
+F0704,PIA,JED,KHI,15:30,22:30,On Time
+F0705,PIA,IST,KHI,15:00,16:00,Delayed
+F0706,Etihad Airways,LHE,JED,03:15,04:15,On Time
+F0707,Qatar Airways,IST,ISB,04:00,08:00,Delayed
+F0708,Qatar Airways,LHE,IST,02:15,09:15,Cancelled
+F0709,Etihad Airways,LHE,IST,03:30,11:30,On Time
+F0710,AirBlue,JED,DXB,05:00,15:00,On Time
+F0711,PIA,IST,JED,17:45,22:45,Cancelled
+F0712,Turkish Airlines,JED,LHE,16:45,00:45,On Time
+F0713,Turkish Airlines,DOH,AUH,18:45,23:45,On Time
+F0714,PIA,JED,ISB,20:30,06:30,On Time
+F0715,Etihad Airways,AUH,LHE,00:30,05:30,On Time
+F0716,PIA,IST,AUH,15:45,01:45,Cancelled
+F0717,Etihad Airways,JED,KHI,06:45,09:45,On Time
+F0718,Qatar Airways,AUH,DXB,08:30,10:30,On Time
+F0719,Turkish Airlines,DXB,JED,21:15,00:15,On Time
+F0720,PIA,IST,ISB,06:45,13:45,On Time
+F0721,SereneAir,ISB,KHI,10:30,17:30,Delayed
+F0722,Turkish Airlines,JED,AUH,21:15,01:15,On Time
+F0723,Etihad Airways,DXB,DOH,02:30,10:30,On Time
+F0724,Etihad Airways,KHI,DXB,03:00,05:00,On Time
+F0725,Qatar Airways,ISB,LHE,16:00,21:00,On Time
+F0726,Qatar Airways,DOH,DXB,07:00,11:00,Delayed
+F0727,SereneAir,KHI,DXB,15:15,18:15,On Time
+F0728,PIA,ISB,KHI,08:00,16:00,On Time
+F0729,Turkish Airlines,DXB,KHI,03:00,08:00,On Time
+F0730,Qatar Airways,ISB,KHI,02:00,12:00,On Time
+F0731,AirBlue,AUH,JED,07:15,16:15,On Time
+F0732,Qatar Airways,AUH,JED,17:00,03:00,On Time
+F0733,Qatar Airways,KHI,DOH,08:45,17:45,On Time
+F0734,AirBlue,JED,DXB,15:00,20:00,Delayed
+F0735,AirBlue,ISB,KHI,00:15,05:15,On Time
+F0736,Qatar Airways,AUH,DXB,11:45,13:45,On Time
+F0737,Qatar Airways,LHE,IST,21:45,07:45,On Time
+F0738,Etihad Airways,DOH,IST,08:45,12:45,On Time
+F0739,SereneAir,LHE,IST,21:45,03:45,On Time
+F0740,Emirates,ISB,KHI,01:00,06:00,Delayed
+F0741,AirBlue,IST,KHI,14:15,18:15,On Time
+F0742,SereneAir,AUH,ISB,17:30,20:30,On Time
+F0743,AirBlue,AUH,DXB,09:45,18:45,Delayed
+F0744,Qatar Airways,ISB,LHE,08:00,10:00,On Time
+F0745,PIA,ISB,KHI,13:00,23:00,On Time
+F0746,SereneAir,AUH,JED,07:15,17:15,Delayed
+F0747,Emirates,LHE,AUH,18:15,01:15,On Time
+F0748,Emirates,DXB,KHI,11:00,19:00,On Time
+F0749,Emirates,DXB,JED,02:45,11:45,On Time
+F0750,Turkish Airlines,KHI,IST,15:45,16:45,Delayed
+F0751,Emirates,JED,KHI,19:45,02:45,Cancelled
+F0752,AirBlue,LHE,DXB,11:30,14:30,On Time
+F0753,Etihad Airways,IST,AUH,10:30,18:30,Delayed
+F0754,SereneAir,JED,AUH,09:45,17:45,Delayed
+F0755,Etihad Airways,KHI,DOH,03:00,09:00,On Time
+F0756,SereneAir,KHI,AUH,22:15,04:15,Cancelled
+F0757,Emirates,LHE,ISB,01:00,04:00,On Time
+F0758,Turkish Airlines,DOH,JED,02:30,03:30,Delayed
+F0759,Etihad Airways,DXB,LHE,20:00,23:00,On Time
+F0760,SereneAir,LHE,JED,08:30,11:30,Cancelled
+F0761,AirBlue,KHI,DOH,10:45,13:45,On Time
+F0762,Qatar Airways,LHE,IST,16:30,20:30,Cancelled
+F0763,Etihad Airways,IST,DOH,02:15,06:15,On Time
+F0764,SereneAir,LHE,AUH,03:00,10:00,On Time
+F0765,AirBlue,AUH,LHE,22:30,03:30,On Time
+F0766,SereneAir,IST,LHE,15:00,19:00,Delayed
+F0767,SereneAir,IST,ISB,04:45,10:45,On Time
+F0768,AirBlue,IST,AUH,04:45,14:45,Cancelled
+F0769,AirBlue,DXB,JED,13:45,22:45,On Time
+F0770,PIA,DOH,ISB,09:45,14:45,On Time
+F0771,Turkish Airlines,DXB,LHE,16:30,20:30,On Time
+F0772,Etihad Airways,DOH,ISB,14:30,00:30,On Time
+F0773,SereneAir,KHI,IST,14:45,21:45,On Time
+F0774,SereneAir,LHE,KHI,00:30,08:30,On Time
+F0775,Etihad Airways,IST,DXB,22:45,06:45,On Time
+F0776,Emirates,DXB,JED,19:30,20:30,On Time
+F0777,Etihad Airways,IST,DOH,14:15,19:15,On Time
+F0778,Turkish Airlines,JED,DXB,22:45,07:45,Delayed
+F0779,Etihad Airways,DOH,IST,15:15,20:15,On Time
+F0780,Turkish Airlines,DXB,IST,16:00,20:00,Delayed
+F0781,PIA,IST,ISB,13:30,16:30,On Time
+F0782,Etihad Airways,DOH,JED,06:30,08:30,On Time
+F0783,Emirates,AUH,IST,17:00,20:00,Delayed
+F0784,Qatar Airways,AUH,LHE,20:15,00:15,On Time
+F0785,SereneAir,AUH,DXB,12:00,21:00,On Time
+F0786,SereneAir,DXB,DOH,10:45,18:45,On Time
+F0787,AirBlue,DOH,IST,09:45,17:45,On Time
+F0788,PIA,LHE,DOH,17:30,20:30,On Time
+F0789,Qatar Airways,IST,LHE,06:15,14:15,On Time
+F0790,PIA,DOH,LHE,21:45,00:45,On Time
+F0791,Qatar Airways,ISB,IST,02:15,03:15,On Time
+F0792,PIA,DXB,DOH,15:30,17:30,On Time
+F0793,PIA,DXB,LHE,02:15,06:15,On Time
+F0794,SereneAir,AUH,IST,02:30,11:30,On Time
+F0795,AirBlue,DOH,JED,00:30,10:30,On Time
+F0796,Emirates,LHE,JED,20:45,05:45,On Time
+F0797,Etihad Airways,AUH,DXB,12:30,16:30,On Time
+F0798,Turkish Airlines,JED,AUH,13:45,18:45,Delayed
+F0799,Emirates,AUH,DXB,09:45,16:45,On Time
+F0800,Qatar Airways,KHI,AUH,13:15,20:15,On Time
+F0801,PIA,JED,KHI,21:45,05:45,Delayed
+F0802,AirBlue,IST,LHE,08:45,11:45,On Time
+F0803,Turkish Airlines,DXB,ISB,19:00,00:00,On Time
+F0804,PIA,DXB,IST,15:15,17:15,Delayed
+F0805,PIA,AUH,JED,04:15,05:15,On Time
+F0806,Etihad Airways,ISB,DOH,09:30,10:30,On Time
+F0807,Qatar Airways,ISB,JED,13:15,17:15,On Time
+F0808,SereneAir,LHE,JED,02:30,08:30,Delayed
+F0809,AirBlue,AUH,IST,11:30,14:30,On Time
+F0810,Etihad Airways,KHI,DOH,03:15,10:15,On Time
+F0811,Turkish Airlines,DXB,LHE,14:15,19:15,On Time
+F0812,PIA,ISB,IST,13:15,17:15,On Time
+F0813,Qatar Airways,DOH,LHE,05:30,12:30,On Time
+F0814,Qatar Airways,KHI,LHE,08:00,18:00,On Time
+F0815,Turkish Airlines,ISB,JED,09:45,16:45,Delayed
+F0816,AirBlue,ISB,DOH,17:00,02:00,On Time
+F0817,Etihad Airways,KHI,LHE,14:30,17:30,On Time
+F0818,Qatar Airways,IST,DXB,07:15,10:15,On Time
+F0819,Qatar Airways,AUH,IST,03:00,13:00,Delayed
+F0820,SereneAir,ISB,JED,00:45,08:45,Delayed
+F0821,AirBlue,DXB,AUH,14:45,15:45,On Time
+F0822,Etihad Airways,DOH,LHE,09:15,12:15,On Time
+F0823,Emirates,KHI,DOH,17:45,01:45,Cancelled
+F0824,AirBlue,KHI,LHE,01:00,05:00,On Time
+F0825,Turkish Airlines,JED,DOH,19:30,05:30,Delayed
+F0826,Etihad Airways,LHE,ISB,02:15,08:15,On Time
+F0827,Etihad Airways,DXB,ISB,09:45,17:45,Cancelled
+F0828,AirBlue,ISB,AUH,12:15,15:15,On Time
+F0829,Etihad Airways,DXB,LHE,03:00,06:00,On Time
+F0830,Turkish Airlines,KHI,ISB,18:45,22:45,On Time
+F0831,Emirates,IST,ISB,06:15,10:15,On Time
+F0832,Etihad Airways,DOH,JED,17:45,21:45,Delayed
+F0833,AirBlue,LHE,ISB,22:45,02:45,On Time
+F0834,Emirates,DXB,DOH,04:45,09:45,On Time
+F0835,Turkish Airlines,DOH,JED,20:15,01:15,On Time
+F0836,SereneAir,ISB,JED,14:00,18:00,On Time
+F0837,Etihad Airways,DOH,LHE,19:45,00:45,Delayed
+F0838,Turkish Airlines,ISB,IST,01:00,02:00,On Time
+F0839,SereneAir,KHI,DOH,13:30,18:30,Delayed
+F0840,PIA,IST,DOH,12:00,16:00,Delayed
+F0841,PIA,KHI,ISB,21:00,03:00,Delayed
+F0842,SereneAir,JED,DXB,21:15,00:15,On Time
+F0843,Emirates,AUH,DOH,06:00,10:00,On Time
+F0844,Etihad Airways,DOH,DXB,13:45,15:45,On Time
+F0845,Emirates,DXB,JED,14:00,22:00,On Time
+F0846,Etihad Airways,DOH,JED,13:15,18:15,On Time
+F0847,Qatar Airways,ISB,LHE,19:30,20:30,On Time
+F0848,Turkish Airlines,JED,DXB,13:15,22:15,Delayed
+F0849,Qatar Airways,DOH,AUH,04:15,11:15,On Time
+F0850,Emirates,JED,LHE,15:00,23:00,On Time
+F0851,Qatar Airways,IST,DXB,21:45,02:45,On Time
+F0852,Etihad Airways,KHI,LHE,02:15,04:15,Cancelled
+F0853,Emirates,AUH,ISB,01:00,10:00,Delayed
+F0854,PIA,DOH,JED,10:45,20:45,Delayed
+F0855,Etihad Airways,AUH,LHE,19:45,23:45,Cancelled
+F0856,PIA,DOH,JED,22:45,06:45,On Time
+F0857,PIA,ISB,KHI,14:45,22:45,Delayed
+F0858,Etihad Airways,AUH,LHE,19:45,03:45,On Time
+F0859,Qatar Airways,DOH,ISB,11:30,20:30,On Time
+F0860,PIA,KHI,DXB,12:45,17:45,On Time
+F0861,AirBlue,JED,DXB,15:15,23:15,On Time
+F0862,Etihad Airways,ISB,AUH,06:30,12:30,On Time
+F0863,Turkish Airlines,DXB,AUH,01:15,05:15,On Time
+F0864,Turkish Airlines,IST,JED,09:15,17:15,On Time
+F0865,SereneAir,IST,DOH,14:30,20:30,On Time
+F0866,Emirates,AUH,ISB,04:00,08:00,On Time
+F0867,Turkish Airlines,LHE,AUH,00:45,04:45,On Time
+F0868,AirBlue,KHI,DOH,16:30,17:30,Delayed
+F0869,PIA,IST,JED,04:00,10:00,On Time
+F0870,SereneAir,IST,JED,04:45,12:45,Cancelled
+F0871,Emirates,DOH,IST,17:30,23:30,On Time
+F0872,Emirates,KHI,DOH,18:00,02:00,On Time
+F0873,PIA,JED,IST,01:45,05:45,On Time
+F0874,Etihad Airways,IST,DXB,16:30,00:30,On Time
+F0875,Etihad Airways,KHI,LHE,13:15,21:15,Delayed
+F0876,Etihad Airways,DOH,ISB,04:45,14:45,On Time
+F0877,PIA,LHE,DXB,05:15,15:15,On Time
+F0878,Qatar Airways,KHI,JED,00:30,01:30,On Time
+F0879,PIA,DXB,LHE,15:15,00:15,On Time
+F0880,Emirates,DOH,JED,16:15,01:15,On Time
+F0881,Emirates,JED,IST,05:45,11:45,On Time
+F0882,SereneAir,ISB,DXB,21:45,02:45,On Time
+F0883,Etihad Airways,LHE,IST,13:30,14:30,On Time
+F0884,AirBlue,DOH,AUH,15:15,23:15,On Time
+F0885,AirBlue,KHI,AUH,07:30,08:30,On Time
+F0886,AirBlue,DOH,LHE,00:30,06:30,Delayed
+F0887,PIA,KHI,DOH,15:30,17:30,On Time
+F0888,SereneAir,DXB,KHI,18:45,23:45,On Time
+F0889,Etihad Airways,KHI,IST,10:45,18:45,On Time
+F0890,AirBlue,AUH,DOH,07:30,12:30,On Time
+F0891,Qatar Airways,IST,AUH,04:45,10:45,Cancelled
+F0892,SereneAir,DOH,IST,12:30,13:30,On Time
+F0893,AirBlue,KHI,ISB,07:00,13:00,On Time
+F0894,Emirates,DXB,ISB,07:30,09:30,Delayed
+F0895,AirBlue,LHE,AUH,11:00,21:00,On Time
+F0896,Qatar Airways,DOH,AUH,03:15,11:15,On Time
+F0897,SereneAir,ISB,AUH,19:00,01:00,On Time
+F0898,Emirates,IST,ISB,22:30,02:30,On Time
+F0899,Qatar Airways,DXB,KHI,20:30,00:30,Cancelled
+F0900,AirBlue,AUH,JED,06:00,14:00,Cancelled
+F0901,SereneAir,DOH,IST,02:00,11:00,Delayed
+F0902,PIA,IST,ISB,12:30,17:30,On Time
+F0903,Emirates,ISB,JED,04:30,06:30,On Time
+F0904,PIA,DXB,LHE,10:00,20:00,On Time
+F0905,Turkish Airlines,LHE,JED,06:15,12:15,On Time
+F0906,Turkish Airlines,LHE,ISB,13:45,14:45,Cancelled
+F0907,SereneAir,KHI,DXB,03:45,07:45,On Time
+F0908,Etihad Airways,KHI,IST,15:00,17:00,On Time
+F0909,Turkish Airlines,DOH,AUH,06:45,13:45,On Time
+F0910,AirBlue,ISB,IST,16:30,01:30,Delayed
+F0911,SereneAir,AUH,JED,12:30,20:30,Delayed
+F0912,PIA,LHE,KHI,23:30,05:30,Cancelled
+F0913,Turkish Airlines,DXB,AUH,15:30,18:30,On Time
+F0914,SereneAir,KHI,LHE,11:30,16:30,On Time
+F0915,Etihad Airways,AUH,KHI,16:30,23:30,On Time
+F0916,Emirates,AUH,IST,20:00,21:00,On Time
+F0917,Etihad Airways,IST,KHI,17:15,22:15,Delayed
+F0918,Qatar Airways,DXB,LHE,01:45,02:45,On Time
+F0919,Qatar Airways,IST,LHE,13:45,18:45,On Time
+F0920,Emirates,JED,DXB,15:30,23:30,On Time
+F0921,AirBlue,KHI,AUH,12:00,21:00,Delayed
+F0922,AirBlue,DOH,KHI,05:30,11:30,Cancelled
+F0923,Emirates,IST,DXB,00:15,05:15,Delayed
+F0924,Turkish Airlines,LHE,AUH,16:30,17:30,Delayed
+F0925,Turkish Airlines,IST,ISB,10:00,16:00,On Time
+F0926,SereneAir,AUH,DXB,23:30,07:30,On Time
+F0927,Turkish Airlines,ISB,AUH,08:15,10:15,On Time
+F0928,PIA,LHE,ISB,19:45,04:45,On Time
+F0929,PIA,LHE,AUH,18:45,00:45,On Time
+F0930,Emirates,DOH,IST,05:00,09:00,On Time
+F0931,AirBlue,DOH,KHI,15:00,20:00,On Time
+F0932,Qatar Airways,LHE,ISB,01:00,10:00,Delayed
+F0933,Turkish Airlines,LHE,DXB,22:15,01:15,On Time
+F0934,PIA,JED,LHE,13:30,18:30,On Time
+F0935,Qatar Airways,LHE,AUH,23:30,08:30,Cancelled
+F0936,AirBlue,IST,DOH,07:15,14:15,Delayed
+F0937,Etihad Airways,IST,DOH,03:00,10:00,On Time
+F0938,Emirates,DXB,JED,21:15,06:15,On Time
+F0939,AirBlue,LHE,IST,23:00,01:00,Cancelled
+F0940,Etihad Airways,DOH,IST,17:45,18:45,On Time
+F0941,Etihad Airways,AUH,LHE,11:00,16:00,On Time
+F0942,Turkish Airlines,AUH,JED,04:45,11:45,On Time
+F0943,Emirates,DOH,IST,20:45,06:45,On Time
+F0944,Emirates,JED,LHE,01:15,05:15,Delayed
+F0945,AirBlue,IST,LHE,05:45,10:45,On Time
+F0946,AirBlue,IST,ISB,11:30,12:30,On Time
+F0947,Turkish Airlines,JED,ISB,05:45,12:45,Cancelled
+F0948,Emirates,LHE,ISB,07:15,12:15,On Time
+F0949,PIA,LHE,DXB,09:00,13:00,On Time
+F0950,Etihad Airways,ISB,AUH,22:45,05:45,On Time
+F0951,Etihad Airways,DOH,KHI,20:45,02:45,On Time
+F0952,PIA,IST,KHI,11:00,21:00,Delayed
+F0953,Turkish Airlines,LHE,IST,03:00,09:00,On Time
+F0954,Etihad Airways,LHE,DOH,12:30,21:30,On Time
+F0955,AirBlue,JED,LHE,19:45,01:45,Delayed
+F0956,AirBlue,JED,DOH,09:45,19:45,Delayed
+F0957,AirBlue,AUH,IST,13:15,20:15,Delayed
+F0958,Emirates,DXB,IST,00:45,08:45,On Time
+F0959,Emirates,DOH,LHE,07:45,14:45,On Time
+F0960,AirBlue,DXB,LHE,08:15,18:15,On Time
+F0961,AirBlue,DOH,JED,19:00,01:00,On Time
+F0962,SereneAir,ISB,KHI,02:00,08:00,On Time
+F0963,Emirates,JED,DXB,15:30,16:30,On Time
+F0964,Etihad Airways,LHE,IST,23:15,01:15,On Time
+F0965,SereneAir,DXB,JED,17:00,22:00,Delayed
+F0966,Turkish Airlines,DXB,AUH,03:00,10:00,On Time
+F0967,SereneAir,ISB,JED,22:15,23:15,On Time
+F0968,Qatar Airways,DOH,IST,05:00,08:00,On Time
+F0969,Etihad Airways,DOH,IST,05:30,09:30,Delayed
+F0970,Qatar Airways,ISB,KHI,05:15,06:15,Delayed
+F0971,SereneAir,KHI,AUH,21:45,00:45,Delayed
+F0972,Emirates,IST,KHI,22:00,00:00,On Time
+F0973,PIA,DOH,JED,22:00,00:00,On Time
+F0974,SereneAir,DXB,IST,16:30,23:30,On Time
+F0975,Qatar Airways,JED,DXB,11:00,17:00,On Time
+F0976,PIA,JED,ISB,21:00,00:00,On Time
+F0977,PIA,AUH,DOH,12:30,14:30,On Time
+F0978,Emirates,JED,AUH,00:00,08:00,Cancelled
+F0979,Turkish Airlines,AUH,LHE,11:00,15:00,On Time
+F0980,Etihad Airways,DXB,ISB,18:15,19:15,On Time
+F0981,Qatar Airways,AUH,ISB,09:00,17:00,On Time
+F0982,Qatar Airways,ISB,LHE,16:15,20:15,Delayed
+F0983,PIA,JED,DOH,05:15,06:15,On Time
+F0984,Qatar Airways,ISB,JED,10:30,11:30,On Time
+F0985,Etihad Airways,ISB,IST,16:00,20:00,Delayed
+F0986,Qatar Airways,JED,DXB,05:00,15:00,On Time
+F0987,Emirates,JED,DOH,03:45,08:45,On Time
+F0988,PIA,ISB,DOH,19:30,00:30,On Time
+F0989,Turkish Airlines,ISB,LHE,22:30,02:30,Delayed
+F0990,Turkish Airlines,DOH,KHI,04:30,07:30,On Time
+F0991,Etihad Airways,KHI,AUH,12:30,16:30,Delayed
+F0992,AirBlue,AUH,JED,20:45,04:45,On Time
+F0993,AirBlue,KHI,LHE,12:45,14:45,On Time
+F0994,PIA,LHE,AUH,08:45,09:45,On Time
+F0995,Turkish Airlines,IST,AUH,01:30,06:30,On Time
+F0996,Emirates,IST,ISB,19:45,01:45,On Time
+F0997,Etihad Airways,DOH,ISB,14:45,20:45,On Time
+F0998,Emirates,LHE,ISB,20:30,00:30,Cancelled
+F0999,Emirates,JED,AUH,08:00,14:00,On Time
+F1000,Turkish Airlines,AUH,DOH,10:30,18:30,On Time
