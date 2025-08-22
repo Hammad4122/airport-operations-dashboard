@@ -2,16 +2,20 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 
 # ------------------
 # Loading csv's
 # ------------------
-flights = pd.read_csv(r"C:\Coding Journey\Streamlit\airport_operations_dashboard\assets\flights.csv")
-fuel_consumption = pd.read_csv(r"C:\Coding Journey\Streamlit\airport_operations_dashboard\assets\fuel_consumption.csv")
-passenger_stats = pd.read_csv(r"C:\Coding Journey\Streamlit\airport_operations_dashboard\assets\passenger_stats.csv")
-weather_conditions = pd.read_csv(r"C:\Coding Journey\Streamlit\airport_operations_dashboard\assets\weather_conditions.csv")
-employee_stats = pd.read_csv(r"C:\Coding Journey\Streamlit\airport_operations_dashboard\assets\employee_stats.csv")
-baggage_handling = pd.read_csv(r"C:\Coding Journey\Streamlit\airport_operations_dashboard\assets\baggage_handling.csv")
+
+BASE_DIR = os.path.dirname(__file__)
+
+flights = pd.read_csv(os.path.join(BASE_DIR, "assets", "flights.csv"))
+fuel_consumption = pd.read_csv(os.path.join(BASE_DIR, "assets", "fuel_consumption.csv"))
+passenger_stats = pd.read_csv(os.path.join(BASE_DIR, "assets", "passenger_stats.csv"))
+weather_conditions = pd.read_csv(os.path.join(BASE_DIR, "assets", "weather_conditions.csv"))
+employee_stats = pd.read_csv(os.path.join(BASE_DIR, "assets", "employee_stats.csv"))
+baggage_handling = pd.read_csv(os.path.join(BASE_DIR, "assets", "baggage_handling.csv"))
 
 # ------------------
 # Dashboard
