@@ -1,4 +1,4 @@
-streamlitgit 
+streamlit 
 pandas
 matplotlib
 seaborn
