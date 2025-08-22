@@ -29,8 +29,9 @@ st.divider()
 with st.sidebar:
     title = st.title("📃 Select Dataset")
     selected_dataset = st.selectbox(
-        "",
-        datasets
+        "Choose a dataset",
+        datasets,
+        label_visibility='collapsed'
     )
     st.success(f"{selected_dataset} dataset is selected")
 
@@ -61,11 +62,13 @@ if selected_dataset == "Flight":
     #------------------------------------------------------
     with col2:
         fig, ax = plt.subplots()
-        sns.countplot(data=flights,x='airline',palette='coolwarm')
+        sns.countplot(data=flights, x="airline", hue="airline", palette="coolwarm", legend=False)
         ax.set_title("Number of Flights per Airline",size = 20,color = 'purple')
         ax.set_xlabel("Airline",size = 15)
         ax.set_ylabel("Number of Flights",size = 15)
-        ax.set_xticklabels(ax.get_xticklabels(),rotation = 90,color = 'blue')
+        for label in ax.get_xticklabels():
+            label.set_rotation(90)
+            label.set_color("blue")
         ax.set_yticklabels(ax.get_yticklabels(),color = 'blue')
         st.pyplot(fig)
     st.divider()
