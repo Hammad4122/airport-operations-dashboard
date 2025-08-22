@@ -31,7 +31,7 @@ with st.sidebar:
     selected_dataset = st.selectbox(
         "Choose a dataset",
         datasets,
-        label_visibility='collapsed'
+        label_visibility="collapsed"
     )
     st.success(f"{selected_dataset} dataset is selected")
 
@@ -41,9 +41,10 @@ with st.sidebar:
 if selected_dataset == "Flight":
     st.header("✈️ Flights Dataset")
     st.divider()
-    on_time = ((flights["status"] == "On Time").sum())/10
-    delayed = ((flights["status"] == "Delayed").sum())/10
-    cancelled = ((flights["status"] == "Cancelled").sum())/10
+    total_flights = len(flights)
+    on_time = (flights["status"] == "On Time").sum() / total_flights * 100
+    delayed = (flights["status"] == "Delayed").sum() / total_flights * 100
+    cancelled = (flights["status"] == "Cancelled").sum() / total_flights * 100
     st.header("📊 Visualizations",divider=True,width='content')
     #------------------------------------------------------
     # Bar plot showing ontime,delayed and cancelled filghts
@@ -52,7 +53,7 @@ if selected_dataset == "Flight":
     col1, col2 = st.columns(2)
     with col1:
         fig, ax = plt.subplots(figsize=(10,9.5))
-        sns.barplot(data=status_counts,x='status',y='counts',ax=ax,hue='status',palette='coolwarm')
+        sns.barplot(data=status_counts,x='status',y='counts',ax=ax,palette='coolwarm')
         ax.set_title("Flight Status Distribution",size=20)
         ax.set_xlabel("Status",size = 20)
         ax.set_ylabel("Counts",size = 20)
